@@ -1,4 +1,2 @@
-merdivan
+belediye
 ========
-
-Merdivan app
